@@ -1,2 +1,2 @@
-# Applied-Plotting-Charting-Data-Representation-in-Python-Assignment2
+# Applied-Plotting-Charting-Data-Representation-in-Python
 Plotting Weather Patterns using Pandas, Matplotlib. Data is taken from 
